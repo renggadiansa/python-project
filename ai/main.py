@@ -15,3 +15,4 @@ nama = "Rizky"
 str = "hello " + nama
 str = f"hello {nama}"
 print(str)
+
